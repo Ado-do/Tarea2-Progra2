@@ -2,5 +2,4 @@
 
 ### Equipo
 * Alonso Bustos
-* Lirayen Martinez
-* Luciano Argomedo
+* Cristobal Figueroa
