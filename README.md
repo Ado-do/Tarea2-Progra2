@@ -5,4 +5,4 @@
 * Cristobal Figueroa
 ## Dudas
 - Preguntar sobre porque en los prototipos de metodos y clases, la bebida se compra llamando a bebida y no a expendedor!!
-![Prototipo1](protipo xd.png)
+![Prototipo1](images/protipo xd.png)
