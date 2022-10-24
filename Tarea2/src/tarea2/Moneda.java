@@ -22,3 +22,25 @@ class Moneda100 extends Moneda {
         return 0;
     }
 }
+class Moneda500 extends Moneda{
+    public Moneda500(){
+    
+    }
+    public int getValor(){
+        
+        return 0;
+  }
+
+}
+class Moneda1000 extends Moneda{
+    public Moneda1000(){
+    
+    
+    }
+    public int getValor (){
+    
+        return 0;
+    }
+
+
+}

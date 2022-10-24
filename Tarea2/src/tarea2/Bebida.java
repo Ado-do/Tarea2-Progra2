@@ -22,3 +22,25 @@ class CocaCola extends Bebida {
         return "Que rica cola!, p*ta que rico, eh!";
     }
 }
+class Fanta extends Bebida{
+      
+    public Fanta(int serie){
+        super(serie);
+    }
+    public String beber(){
+        return "Fantastica la bebida ehhh, entendieron?";
+    }
+    
+}
+class Sprite extends Bebida{
+
+    public Sprite(int serie){
+        super(serie);
+    }
+    public String beber(){
+        return "No se me ocurre que agregar aki";
+    }
+
+
+
+}
