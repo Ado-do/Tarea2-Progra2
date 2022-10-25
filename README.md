@@ -2,15 +2,14 @@
 ### Equipo
 * Alonso Bustos (Ado-do)
 * Cristobal Figueroa (xKroZzar)
+
 ## FECHA LIMITE !!!! :eyes: :eyes:
-   27-10
+Jueves 27 de Octubre (27/10/2022)
+
 ## Objetivos
-- [ ] Crear UMLs y compararlos.
-- [ ] Empezar a crear el programa.
+- [ ] Escribir y testear codigo.
+- [ ] Crear UML en base al codigo.
 - [ ] ... :construction: :construction:
-## Dudas
-- (SOLUCIONADO) Preguntar sobre porque en los prototipos de metodos y clases, la bebida se compra llamando a bebida y no a expendedor!!
-![Prototipo1](images/prototipo1.png)
 
 ## Ideas UML
 - Idea de xKroZzar
