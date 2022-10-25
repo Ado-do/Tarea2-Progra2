@@ -19,7 +19,7 @@ class CocaCola extends Bebida {
     }
     @Override
     public String beber() {
-        return "Que rica cola!, p*ta que rico, eh!";
+        return "Coca-cola";
     }
 }
 class Fanta extends Bebida{
@@ -28,7 +28,7 @@ class Fanta extends Bebida{
         super(serie);
     }
     public String beber(){
-        return "Fantastica la bebida ehhh, entendieron?";
+        return "Fanta";
     }
     
 }
@@ -38,7 +38,7 @@ class Sprite extends Bebida{
         super(serie);
     }
     public String beber(){
-        return "No se me ocurre que agregar aki";
+        return "Sprite";
     }
 
 

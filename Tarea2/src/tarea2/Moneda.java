@@ -1,46 +1,31 @@
 package tarea2;
 
 public abstract class Moneda {
-    // No tienen propiedades (como chucha sabemos el valor ?_?)
 
-    public Moneda() {
-
-    }
     public Moneda getSerie() {
-        return null;
+        return this;
     }
     public abstract int getValor();
 }
 
 class Moneda100 extends Moneda {
 
-    public Moneda100() {
-
-    }
     @Override
     public int getValor() {
-        return 0;
+        return 100;
     }
 }
 class Moneda500 extends Moneda{
-    public Moneda500(){
-    
-    }
-    public int getValor(){
-        
-        return 0;
-  }
 
+    @Override
+    public int getValor() {
+        return 500;
+  }
 }
 class Moneda1000 extends Moneda{
-    public Moneda1000(){
-    
-    
-    }
-    public int getValor (){
-    
-        return 0;
-    }
 
-
+    @Override
+    public int getValor() {
+        return 1000;
+    }
 }
