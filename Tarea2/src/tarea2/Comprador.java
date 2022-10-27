@@ -19,13 +19,13 @@ public class Comprador {
         // Si no pude comprar una bebida
         } else {
             saborBebido = "No he tomado nada =(";
-
             // Comprobar si recibí moneda de vuelta
             Moneda devolucion = exp.getVuelto();
             if (devolucion != null) {
                 vuelto += devolucion.getValor();
             }
         }
+        
     }
     
     public int cuantoVuelto() {
