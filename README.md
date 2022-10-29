@@ -4,7 +4,8 @@
 * Cristobal Figueroa (xKroZzar)
 
 ## FECHA LIMITE !!!! :eyes: :eyes:
-Jueves 27 de Octubre (27/10/2022)
+~~Jueves 27 de Octubre (27/10/2022)~~
+-> Domingo 30 de Octubre (30/10/2022)
 
 ## Objetivos
 - [ ] Escribir y testear codigo.
