@@ -39,5 +39,14 @@ public class Tarea2 {
         System.out.println(Kevin.queBebiste());
         System.out.println(Kevin.cuantoVuelto());
         System.out.print("\n");
+
+        // Caso 5: Intenta comprar, pero la maquina no tiene bebidas.
+        System.out.println("* Mati:");
+        Moneda money = new Moneda1000();
+        Expendedor Maquina5 = new Expendedor(5,1000);
+        Comprador Mati = new Comprador(money, 0, Maquina5);
+        System.out.println(Mati.queBebiste());
+        System.out.println(Mati.cuantoVuelto());
+        System.out.print("\n");
     }
 }
