@@ -8,7 +8,7 @@
 -> Domingo 30 de Octubre (30/10/2022)
 
 ## Objetivos
-- [ ] Escribir y testear codigo.
+- [X] Escribir y testear codigo.
 - [ ] Crear UML en base al codigo.
 - [ ] ... :construction: :construction:
 
