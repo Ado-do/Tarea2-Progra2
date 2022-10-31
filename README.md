@@ -8,10 +8,8 @@
 -> Domingo 30 de Octubre (30/10/2022)
 
 ## Objetivos
-- [X] Escribir y testear codigo.
-- [ ] Crear UML en base al codigo.
-- [ ] ... :construction: :construction:
+- [X] ~~Escribir y testear codigo.~~
+- [X] ~~Crear UML en base al codigo.~~
 
-## Ideas UML
-- Idea de xKroZzar
-![UML](images/umlkrozz.png)
+## UML
+![UML](images/umladodo.png)
