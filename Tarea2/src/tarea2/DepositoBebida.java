@@ -2,17 +2,17 @@ package tarea2;
 import java.util.ArrayList;
 
 class DepositoBebida {
-    private ArrayList<Bebida> list;
+    private ArrayList<Bebida> dep;
 
     public DepositoBebida() {
-        this.list = new ArrayList<Bebida>();
+        this.dep = new ArrayList<Bebida>();
     }
     public void addBebida(Bebida b) {
-        this.list.add(b);
+        this.dep.add(b);
     }
     public Bebida getBebida() {
-        if (!list.isEmpty()) {
-            return this.list.remove(0);
+        if (!dep.isEmpty()) {
+            return this.dep.remove(0);
         } else {
             return null;
         }
